@@ -1,0 +1,90 @@
+
+*{
+    font-family: "League Spartan", sans-serif;
+}
+
+.main-container{
+    padding: 50px;
+}
+
+
+.container{
+    margin-top: 10px;
+
+}
+.container1 {
+    display: flex;
+}
+
+
+.users-love{
+    width: 50%;
+}
+.users-love h1{
+    width: 45%;
+    color: hsl(300, 43%, 22%)
+}
+
+.users-love p{
+    width: 65%;
+    color:  hsl(303, 10%, 53%)
+}
+.Review{
+    width: 50%;
+    padding: 20px;
+
+}
+
+.Rating{
+    width: 60%;
+    padding: 10px;
+    background-color:hsl(300, 24%, 96%);
+    margin: 10px;
+    border-radius: 5px;
+    
+}
+.Rating p{
+    display: inline;
+    margin-left: 15px;
+    color: hsl(300, 43%, 22%);
+
+}
+.Rating img{
+    
+   padding: 2px;
+}
+
+.Guru{
+margin:15px 0px 0px 50px;
+}
+
+.BestTech{
+    margin:15px 0px 0px 100px;
+}
+
+.card{
+    width: 30%;
+    padding: 20px;
+    background-color: aqua;
+}
+.image1{
+    display: flex;
+    gap: 20px;
+}
+.image1 img {
+    border-radius: 50%;
+    width: 10%;
+    
+}
+.image1 h2{
+    display: flex;
+    
+}
+.img-name h2,h5{
+    margin: 0;
+}
+
+.card p{
+    width: 75%;
+    font-weight: 500;
+}
